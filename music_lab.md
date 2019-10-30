@@ -4,9 +4,9 @@ You have been asked to create an app that will allow a music collector to manage
 
 In their console they would like to be able to:
 
-* Create and Save Artists
-* Create and Save Albums
-* List All Artists/Albums
+* Create and Save Artists X
+* Create and Save Albums X
+* List All Artists/Albums X
 
 * List all the albums by an artist
 * Get the artist for a particular album
